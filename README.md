@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Yug!
 
-<!--
-**yerunkaryug/yerunkaryug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌏 **Maharashtra, India** • ⌘ **Lead Developer & Maintainer** *[@IonDevs](https://github.com/IonDevs)*
 
-Here are some ideas to get you started:
+![](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/Javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
+![](https://img.shields.io/badge/Web-4285F4?logo=GoogleChrome&logoColor=white)
+![](https://img.shields.io/badge/Bash-232332?logo=gnubash&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Think, Plan, Create. Lead Dev in Building IonOS, an operating environment that works as your *'local cloud'* system. 
+
+### About
+* 👩 Pronouns: y<sup>2</sup>, he, him
+* 🔭 Currently working on: IonOS
+* 🌱 Currently learning Javascript
+* ❤️ I love builing PCs
+
+### Currently Working On:
+
+- **[IonOS](https://github.com/IonDevs/IonOS)** - An OS that runs on your web browser.
