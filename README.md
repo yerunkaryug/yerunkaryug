@@ -11,10 +11,5 @@
 
 ### About
 * 👩 Pronouns: y<sup>2</sup>, he, him
-* 🔭 Currently working on: IonOS
 * 🌱 Currently learning Javascript
 * ❤️ I love builing PCs
-
-### Currently Working On:
-
-- **[IonOS](https://github.com/IonDevs/IonOS)** - An OS that runs on your web browser.
